@@ -6,7 +6,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.springframework</groupId>
-	<artifactId>spring-pom</artifactId>
+	<artifactId>homeWork2</artifactId>
 	<version>1</version>
 	<packaging>jar</packaging>
 
